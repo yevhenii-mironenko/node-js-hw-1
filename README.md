@@ -36,7 +36,7 @@ git clone https://github.com/yevhenii-mironenko/node-js-hw-2.git
 ```
 npm install
 ```
-3. Створи .env файл у корені проєкту та додай змінну середовища
+3. Створи .env файл у корені проєкту та додай змінну середовища.
 Приклад у `.env.example`
 4. Запусти сервер:
 ```
